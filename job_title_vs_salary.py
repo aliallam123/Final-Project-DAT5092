@@ -3,7 +3,7 @@ import pandas as pd
 
 df = pd.read_csv('ai_salaries.csv')
 
-job_salary_mean = df.groupby('job_title')['salary'].mean().sort_values(ascending=False)
+job_salary_mean = df.groupby('job_title')['salary_in_usd'].mean().sort_values(ascending=False)
 
 top_10_job_salary_mean = job_salary_mean.head(10)
 
