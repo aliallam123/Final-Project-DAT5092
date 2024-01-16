@@ -1,6 +1,8 @@
 # Final-Project-DAT5092
 Professional Software and Career Practices Final Project DAT5902
 
+# Code in master branch
+
 Analysis of Salary Factors in AI/ML Jobs
 Project Overview
 This repository contains a series of coded graphs that aim to analyze and understand the factors influencing salaries in AI and ML (Artificial Intelligence and Machine Learning) jobs. Various types of graphs - including line, bar, heatmap, treemap, and scatter plots - are used to explore different determinants such as experience levels, company location, company size, work year, job title, and the ratio of remote workers. The goal is to uncover correlations and regressions to gain insights into what affects salary dynamics in the AI/ML sector.
