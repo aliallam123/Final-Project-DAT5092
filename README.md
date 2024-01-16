@@ -32,6 +32,8 @@ Ensure these are installed before running the scripts, as outlined in the Instal
 Project Status
 This repository is part of a final university assignment and is not open for contributions. It serves as a submission to demonstrate the application of data visualization in analyzing salary factors in the AI/ML industry.
 
+
+To see history of code added, see master branch.
 License
 The dataset used in this project is licensed under
 
