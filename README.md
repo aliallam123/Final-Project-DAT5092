@@ -1,7 +1,7 @@
 # Final-Project-DAT5092
 Professional Software and Career Practices Final Project DAT5902
 
-# Code in master branch
+# *The code is in the master branch*
 
 Analysis of Salary Factors in AI/ML Jobs
 Project Overview
