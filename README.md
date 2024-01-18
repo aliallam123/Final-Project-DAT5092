@@ -2,7 +2,8 @@
 Professional Software and Career Practices Final Project DAT5902
 
 # *The code is in the master branch*
-# *Key tests are in the 'TESTS.md' file'
+# *Key tests description are in the 'TESTS.md' file'
+# Test suite with key tests are in the 'tests_graph.py' file
 
 Analysis of Salary Factors in AI/ML Jobs
 Project Overview
